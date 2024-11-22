@@ -232,11 +232,11 @@
         <wcol_tab>
           <ThemeWidgetColors
             outline="#232634ff"
-            inner="#232634ff"
+            inner="#292c3cff"
             inner_sel="#303446ff"
-            item="#232634ff"
+            item="#292c3cff"
             text="#c6d0f5ff"
-            text_sel="#ffffffff"
+            text_sel="#c6d0f5ff"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"

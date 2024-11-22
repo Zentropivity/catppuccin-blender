@@ -329,11 +329,11 @@ whiskers:
         <wcol_tab>
           <ThemeWidgetColors
             outline="{{crust.hex}}"
-            inner="{{crust.hex}}"
+            inner="{{mantle.hex}}"
             inner_sel="{{base.hex}}"
-            item="{{crust.hex}}"
+            item="{{mantle.hex}}"
             text="{{text.hex}}"
-            text_sel="{{textFull.hex}}"
+            text_sel="{{text.hex}}"
             show_shaded="FALSE"
             shadetop="0"
             shadedown="0"
