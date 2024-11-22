@@ -13,4 +13,4 @@ Everything in this repository is MIT licensed. Enjoy!
 ## TODO
 
 - pictures -> catwalk
-- determine if Frappé works too. (I only looked at Macchiato really.)
+- determine if all themes work. (I only looked at Macchiato really.)
